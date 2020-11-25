@@ -1,11 +1,10 @@
 {
-  "name": "discord.js-v11.6.1-tutorials-episode-8",
+  "name": "sealbot,
   "version": "1.0.0",
-  "description": "The code from the MenuDocs Discord.js tutorial",
+  "description": "simple bot",
   "main": "index.js",
   "scripts": {
     "start" : "node index.js"
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
