@@ -1,0 +1,19 @@
+{
+  "name": "discord.js-v11.6.1-tutorials-episode-8",
+  "version": "1.0.0",
+  "description": "The code from the MenuDocs Discord.js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "erela.js": "^2.0.1",
+    "fetch": "^1.1.0",
+    "ms": "^2.1.2",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^6.1.0"
+  }
+}
